@@ -1,2 +1,2 @@
 # checkio
-Learning
+Learning - Elementary
