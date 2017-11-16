@@ -1,2 +1,2 @@
-### checkio ###
-Learning - Elementary
+# Learnin on checkio
+**Learning - elementary**
